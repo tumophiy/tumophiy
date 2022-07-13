@@ -11,4 +11,3 @@ My main skills:
       \
 Besides backend development I am interested in dogs, photography and camping.
 I love listening to podcasts, so if you have any good recomendations I will be greatfull for them.
-[Rails project](https://github.com/tumophiy/newspaper-tima)
